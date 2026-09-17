@@ -1,0 +1,27 @@
+{
+  "AppConfig": {
+    "bannerText": "Awaiting Authentication.",
+    "getKeyText": "🔑 Get Key ↗️",
+    "getKeyUrl": "",
+    "imageUrl": "",
+    "loginBtnText": "AUTHENTICATE",
+    "maintenanceMode": false,
+    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
+    "statusBadge": "SECURE",
+    "tags": [],
+    "title": "",
+    "updateMsg": "New DPMods version available! Please update.",
+    "updateRequired": false,
+    "updateUrl": ""
+  },
+  "BannedHWIDs": {},
+  "Keys": {
+    "DPMods-SR6Y9R": {
+      "hwid": "2ADCF0771573E49A",
+      "expireDate": "2026-09-24",
+      "isBanned": false,
+      "banReason": "Key Engine",
+      "userRank": "Supreme User"
+    }
+  }
+}
