@@ -26,7 +26,7 @@
     "Key Generator": {
       "hwid": "RESET",
       "expireDate": "2026-09-30",
-      "isBanned": true,
+      "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
     }
